@@ -7,4 +7,4 @@ This is a test set of words that means absolutely nothing and will not mean anyt
 
 <a href="https://docs.google.com/document/d/1-X8CeTnrG0q1VRFis0E5J0BsPTBR9qxrtQbx68s94Wg/edit"> Link to Docs </a>
 
-<a href="[https://docs.google.com/document/d/1-X8CeTnrG0q1VRFis0E5J0BsPTBR9qxrtQbx68s94Wg/edit](https://colab.research.google.com/drive/1eB9t_edeZSbxGmx8fsrddYvJ83SZq2Nz?usp=sharing)https://colab.research.google.com/drive/1eB9t_edeZSbxGmx8fsrddYvJ83SZq2Nz?usp=sharing"> Link to guglcolab </a>
+<a href="https://docs.google.com/document/d/1-X8CeTnrG0q1VRFis0E5J0BsPTBR9qxrtQbx68s94Wg/edit](https://colab.research.google.com/drive/1eB9t_edeZSbxGmx8fsrddYvJ83SZq2Nz?usp=sharing)https://colab.research.google.com/drive/1eB9t_edeZSbxGmx8fsrddYvJ83SZq2Nz?usp=sharing"> Link to guglcolab </a>
